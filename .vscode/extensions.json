@@ -6,6 +6,7 @@
     "gruntfuggly.todo-tree",
     "ecmel.vscode-html-css",
     "eamodio.gitlens",
-    "gamunu.vscode-yarn"
+    "gamunu.vscode-yarn",
+    "analytic-signal.preview-mp4"
   ]
 }
