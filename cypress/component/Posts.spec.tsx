@@ -1,4 +1,3 @@
-/// <reference types="cypress" />
 import { mount } from '@cypress/react'
 import Posts from '../../components/Posts/Posts'
 import { locators } from '../../components/Posts/Posts.locators'

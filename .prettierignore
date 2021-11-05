@@ -36,3 +36,8 @@ yarn-error.log*
 
 # Let VSCode handle these
 .vscode
+
+# Cypress
+/cypress/videos
+/cypress/screenshots
+/cypress/downloads
