@@ -1,3 +1,9 @@
+# Next.JS Starter w/ Cypress Component Testing
+
+This branch was set up by following [this guide](https://medium.com/geekculture/component-testing-next-js-application-with-cypress-28fa311adda6)
+
+<hr>
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
