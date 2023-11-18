@@ -1,3 +1,6 @@
+> [!WARNING]
+> This starter is no longer maintained. I have a different starter called [next-playground](https://github.com/ChrisCrossCrash/next-playground) that I use for my newer Next.js projects.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
